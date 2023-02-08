@@ -1,0 +1,10 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+#form{
+    margin: 2% 30%;
+    background-color: rgb(190, 224, 224);
+    color: rgb(2, 2, 36);
+}
